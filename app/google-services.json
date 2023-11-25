@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747040207063",
+    "project_id": "multiuser-e5055",
+    "storage_bucket": "multiuser-e5055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747040207063:android:0af8e101e860a37ecd0092",
+        "android_client_info": {
+          "package_name": "com.example.multi_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_daBENyRLE_PotkT3zma1V6No0Mrtc7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
