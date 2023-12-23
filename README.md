@@ -18,6 +18,7 @@ A multiuser Application where Admins signup  as Admin User type while Clients si
 ## Usage
 
 Clone the repository and open it in Android Studio.
+
 https://github.com/oluyalireuben/MultiUserUI-firebase-
 
 Add the project to Firebase and give realtime database.
