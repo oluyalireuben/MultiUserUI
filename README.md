@@ -17,7 +17,13 @@ A multiuser Application where Admins signup  as Admin User type while Clients si
 
 ## Usage
 
-Clone the repository and open it in Android Studio.  Add the project to Firebase and give realtime database... Run the app on an emulator or physical device.
+Clone the repository and open it in Android Studio.
+
+Add the project to Firebase and give realtime database.
+
+Remember to replace the json file with your new file then build gradle.
+
+Run the app on an emulator or physical device.
 
 ## Technologies Used
 
