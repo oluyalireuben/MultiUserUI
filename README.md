@@ -34,7 +34,7 @@ Run the app on an emulator or physical device.
 
 ## Contributing
 
-Feel free to contribute to the development of HotelAPP by opening issues and pull requests.
+Feel free to contribute to the development of this multiuser UI by opening issues and pull requests.
 
 ## Developer
 
